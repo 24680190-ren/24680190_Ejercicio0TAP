@@ -1,4 +1,4 @@
-**24680190_Ejercicio0TAP**
+**24680190_Ejercicio0TAP renta**
 
 <br>Cómo crear botones que,al dar clic, realicen una acción y la muestren en un display, así como también uno que limpie la pantalla.</br>
 <br>Para iniciar,debemos instalar Python y Flet; en mi caso,usaré también Git Bash en lugar del CMD.</br>
